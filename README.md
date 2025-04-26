@@ -1,7 +1,7 @@
 # JavaScript-Task
 
 
-1. Random Cat Image Generator
+**1. Random Cat Image Generator**
 -> Task: Click a button → Show a random cat image.
 
 -> API: https://api.thecatapi.com/
@@ -10,7 +10,7 @@
 
 
 
-2. Random Joke Generator
+**2. Random Joke Generator**
 -> Task: Click a button → Show a random joke.
 
 -> API: https://official-joke-api.appspot.com/
@@ -21,7 +21,7 @@
 
 
 
-3. Country Info Finder
+**3. Country Info Finder**
 -> Task: Type a country name → Get its info.
 
 -> API: https://restcountries.com/
