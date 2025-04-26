@@ -2,33 +2,33 @@
 
 
 1. Random Cat Image Generator
-Task: Click a button → Show a random cat image.
+-> Task: Click a button → Show a random cat image.
 
-API: https://api.thecatapi.com/
+-> API: https://api.thecatapi.com/
 
-Great for beginners
+-> Great for beginners
 
-Add option to download image or share
+-> Add option to download image or share
 
 
 
 2. Random Joke Generator
-Task: Click a button → Show a random joke.
+-> Task: Click a button → Show a random joke.
 
-API: https://official-joke-api.appspot.com/
+-> API: https://official-joke-api.appspot.com/
 
-Show setup and punchline
+-> Show setup and punchline
 
-Add laugh reaction emoji or sound effect
+-> Add laugh reaction emoji or sound effect
 
 
 
 3. Country Info Finder
-Task: Type a country name → Get its info.
+-> Task: Type a country name → Get its info.
 
-API: https://restcountries.com/
+-> API: https://restcountries.com/
 
-Show: Flag, Capital, Population, Currency, Languages
+-> Show: Flag, Capital, Population, Currency, Languages
 
-Bonus: Add a map view using Google Maps or Leaflet
+-> Optional: Add a map view using Google Maps or Leaflet
 
