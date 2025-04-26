@@ -6,8 +6,6 @@
 
 -> API: https://api.thecatapi.com/
 
--> Great for beginners
-
 -> Add option to download image or share
 
 
